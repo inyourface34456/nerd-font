@@ -1,0 +1,2142 @@
+@font-face {
+    font-family: "0xProtoNF";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/0xProtoNF.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "0xProtoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/0xProtoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "0xProtoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/0xProtoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "0xProtoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/0xProtoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "3270NerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/3270NerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "3270NerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/3270NerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "3270NerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/3270NerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AdwaitaMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AdwaitaMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AdwaitaMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AdwaitaMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AdwaitaMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AdwaitaMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AgaveNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AgaveNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AgaveNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AgaveNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AgaveNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AgaveNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AnonymiceProNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AnonymiceProNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AnonymiceProNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AnonymiceProNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AnonymiceProNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AnonymiceProNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ArimoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ArimoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ArimoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ArimoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AtkynsonMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AtkynsonMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AtkynsonMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AtkynsonMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AtkynsonMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AtkynsonMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AurulentSansMNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AurulentSansMNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AurulentSansMNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AurulentSansMNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "AurulentSansMNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/AurulentSansMNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BigBlueTerm437NerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BigBlueTerm437NerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BigBlueTerm437NerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BigBlueTerm437NerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BigBlueTerm437NerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BigBlueTerm437NerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BigBlueTermPlusNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BigBlueTermPlusNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BigBlueTermPlusNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BigBlueTermPlusNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BigBlueTermPlusNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BigBlueTermPlusNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BitstromWeraNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BitstromWeraNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BitstromWeraNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BitstromWeraNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BitstromWeraNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BitstromWeraNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BlexMonoNerdFont-Text";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BlexMonoNerdFont-Text.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BlexMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BlexMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BlexMonoNerdFontMono-Text";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BlexMonoNerdFontMono-Text.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BlexMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BlexMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BlexMonoNerdFontPropo-Text";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BlexMonoNerdFontPropo-Text.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BlexMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BlexMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CaskaydiaCoveNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CaskaydiaCoveNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CaskaydiaCoveNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CaskaydiaCoveNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CaskaydiaCoveNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CaskaydiaCoveNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CaskaydiaMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CaskaydiaMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CaskaydiaMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CaskaydiaMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CaskaydiaMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CaskaydiaMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CodeNewRomanNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CodeNewRomanNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CodeNewRomanNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CodeNewRomanNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CodeNewRomanNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CodeNewRomanNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ComicShannsMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ComicShannsMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ComicShannsMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ComicShannsMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ComicShannsMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ComicShannsMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CommitMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CommitMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CommitMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CommitMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CommitMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CommitMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CousineNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CousineNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CousineNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CousineNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "CousineNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/CousineNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "D2CodingLigatureNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/D2CodingLigatureNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "D2CodingLigatureNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/D2CodingLigatureNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "D2CodingLigatureNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/D2CodingLigatureNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DaddyTimeMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DaddyTimeMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DaddyTimeMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DaddyTimeMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DaddyTimeMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DaddyTimeMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DejaVuSansMNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DejaVuSansMNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DejaVuSansMNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DejaVuSansMNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DejaVuSansMNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DejaVuSansMNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DepartureMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DepartureMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DepartureMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DepartureMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DepartureMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DepartureMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DroidSansMNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DroidSansMNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DroidSansMNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DroidSansMNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "DroidSansMNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/DroidSansMNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "EnvyCodeRNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/EnvyCodeRNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "EnvyCodeRNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/EnvyCodeRNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "EnvyCodeRNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/EnvyCodeRNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FantasqueSansMNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FantasqueSansMNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FantasqueSansMNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FantasqueSansMNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FantasqueSansMNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FantasqueSansMNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FiraCodeNerdFont-Retina";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FiraCodeNerdFont-Retina.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FiraCodeNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FiraCodeNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FiraCodeNerdFontMono-Retina";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FiraCodeNerdFontMono-Retina.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FiraCodeNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FiraCodeNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FiraCodeNerdFontPropo-Retina";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FiraCodeNerdFontPropo-Retina.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FiraCodeNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FiraCodeNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FiraMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FiraMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FiraMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FiraMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "FiraMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FiraMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GeistMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GeistMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GeistMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GeistMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GeistMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GeistMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GoMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GoMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GoMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GoMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GoMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GoMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFont11NerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFont11NerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFont11NerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFont11NerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFont11NerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFont11NerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFont14NerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFont14NerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFont14NerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFont14NerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFont14NerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFont14NerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFontuni11NerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFontuni11NerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFontuni11NerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFontuni11NerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFontuni11NerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFontuni11NerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFontuni14NerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFontuni14NerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFontuni14NerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFontuni14NerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "GohuFontuni14NerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFontuni14NerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "HackNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HackNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "HackNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HackNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "HackNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HackNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "HasklugNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HasklugNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "HasklugNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HasklugNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "HasklugNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HasklugNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "HeavyDataNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HeavyDataNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "HeavyDataNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HeavyDataNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "HurmitNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HurmitNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "HurmitNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HurmitNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "HurmitNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HurmitNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "InconsolataGoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/InconsolataGoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "InconsolataGoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/InconsolataGoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "InconsolataGoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/InconsolataGoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "InconsolataLGCNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/InconsolataLGCNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "InconsolataLGCNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/InconsolataLGCNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "InconsolataLGCNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/InconsolataLGCNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "InconsolataNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/InconsolataNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "InconsolataNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/InconsolataNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "InconsolataNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/InconsolataNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IntoneMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IntoneMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IntoneMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IntoneMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IntoneMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IntoneMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IosevkaNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IosevkaNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IosevkaNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IosevkaNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IosevkaNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IosevkaNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IosevkaTermNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IosevkaTermNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IosevkaTermNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IosevkaTermNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IosevkaTermNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IosevkaTermNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IosevkaTermSlabNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IosevkaTermSlabNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IosevkaTermSlabNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IosevkaTermSlabNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "IosevkaTermSlabNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IosevkaTermSlabNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "JetBrainsMonoNLNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/JetBrainsMonoNLNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "JetBrainsMonoNLNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/JetBrainsMonoNLNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "JetBrainsMonoNLNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/JetBrainsMonoNLNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "JetBrainsMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/JetBrainsMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "JetBrainsMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/JetBrainsMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "JetBrainsMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/JetBrainsMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LektonNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LektonNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LektonNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LektonNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LektonNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LektonNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LilexNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LilexNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LilexNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LilexNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LilexNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LilexNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LiterationMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LiterationMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LiterationMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LiterationMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LiterationMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LiterationMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LiterationSansNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LiterationSansNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LiterationSansNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LiterationSansNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LiterationSerifNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LiterationSerifNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "LiterationSerifNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/LiterationSerifNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+1CodeNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+1CodeNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+1CodeNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+1CodeNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+1CodeNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+1CodeNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+1NerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+1NerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+1NerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+1NerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+2NerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+2NerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+2NerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+2NerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+CodeLat50NerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+CodeLat50NerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+CodeLat50NerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+CodeLat50NerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+CodeLat50NerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+CodeLat50NerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+CodeLat60NerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+CodeLat60NerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+CodeLat60NerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+CodeLat60NerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "M+CodeLat60NerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/M+CodeLat60NerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MartianMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MartianMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MartianMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MartianMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MartianMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MartianMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGLDZNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGLDZNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGLDZNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGLDZNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGLDZNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGLDZNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGLNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGLNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGLNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGLNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGLNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGLNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGMDZNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGMDZNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGMDZNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGMDZNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGMDZNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGMDZNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGMNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGMNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGMNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGMNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGMNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGMNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGSDZNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGSDZNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGSDZNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGSDZNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGSDZNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGSDZNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGSNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGSNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGSNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGSNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MesloLGSNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MesloLGSNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceArNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceArNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceArNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceArNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceArNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceArNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceKrNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceKrNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceKrNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceKrNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceKrNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceKrNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceNeNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceNeNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceNeNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceNeNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceNeNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceNeNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceRnNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceRnNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceRnNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceRnNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceRnNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceRnNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceXeNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceXeNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceXeNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceXeNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonaspiceXeNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonaspiceXeNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonofurNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonofurNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonofurNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonofurNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonofurNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonofurNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonoidNerdFont-Retina";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonoidNerdFont-Retina.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonoidNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonoidNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonoidNerdFontMono-Retina";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonoidNerdFontMono-Retina.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonoidNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonoidNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonoidNerdFontPropo-Retina";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonoidNerdFontPropo-Retina.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MonoidNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MonoidNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MononokiNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MononokiNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MononokiNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MononokiNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "MononokiNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/MononokiNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "NotoMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/NotoMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "NotoMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/NotoMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "NotoMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/NotoMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "NotoSansMNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/NotoSansMNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "NotoSansMNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/NotoSansMNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "NotoSansMNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/NotoSansMNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "NotoSansNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/NotoSansNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "NotoSansNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/NotoSansNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "NotoSerifNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/NotoSerifNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "NotoSerifNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/NotoSerifNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OpenDyslexicAltNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OpenDyslexicAltNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OpenDyslexicAltNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OpenDyslexicAltNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OpenDyslexicMNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OpenDyslexicMNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OpenDyslexicMNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OpenDyslexicMNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OpenDyslexicMNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OpenDyslexicMNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OpenDyslexicNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OpenDyslexicNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OpenDyslexicNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OpenDyslexicNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OverpassMNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OverpassMNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OverpassMNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OverpassMNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OverpassMNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OverpassMNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OverpassNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OverpassNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "OverpassNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/OverpassNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProFontIIxNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProFontIIxNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProFontIIxNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProFontIIxNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProFontIIxNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProFontIIxNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProFontWindowsNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProFontWindowsNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProFontWindowsNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProFontWindowsNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProFontWindowsNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProFontWindowsNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProggyCleanCENerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProggyCleanCENerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProggyCleanCENerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProggyCleanCENerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProggyCleanCENerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProggyCleanCENerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProggyCleanNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProggyCleanNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProggyCleanNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProggyCleanNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProggyCleanNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProggyCleanNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProggyCleanSZNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProggyCleanSZNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProggyCleanSZNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProggyCleanSZNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ProggyCleanSZNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ProggyCleanSZNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoCasualNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoCasualNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoCasualNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoCasualNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoCasualNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoCasualNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoDuotoneNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoDuotoneNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoDuotoneNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoDuotoneNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoDuotoneNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoDuotoneNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoLinearNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoLinearNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoLinearNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoLinearNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoLinearNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoLinearNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoSmCasualNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoSmCasualNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoSmCasualNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoSmCasualNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RecMonoSmCasualNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RecMonoSmCasualNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RobotoMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RobotoMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RobotoMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RobotoMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "RobotoMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RobotoMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "SauceCodeProNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/SauceCodeProNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "SauceCodeProNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/SauceCodeProNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "SauceCodeProNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/SauceCodeProNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ShureTechMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ShureTechMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ShureTechMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ShureTechMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ShureTechMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ShureTechMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "SpaceMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/SpaceMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "SpaceMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/SpaceMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "SpaceMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/SpaceMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "TerminessNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/TerminessNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "TerminessNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/TerminessNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "TerminessNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/TerminessNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "TinosNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/TinosNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "TinosNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/TinosNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "UbuntuMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/UbuntuMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "UbuntuMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/UbuntuMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "UbuntuMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/UbuntuMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "UbuntuNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/UbuntuNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "UbuntuNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/UbuntuNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "UbuntuSansMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/UbuntuSansMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "UbuntuSansMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/UbuntuSansMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "UbuntuSansMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/UbuntuSansMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "UbuntuSansNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/UbuntuSansNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "UbuntuSansNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/UbuntuSansNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "VictorMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/VictorMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "VictorMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/VictorMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "VictorMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/VictorMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ZedMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ZedMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ZedMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ZedMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "ZedMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/ZedMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "iMWritingDuoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/iMWritingDuoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "iMWritingDuoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/iMWritingDuoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "iMWritingMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/iMWritingMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "iMWritingMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/iMWritingMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "iMWritingMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/iMWritingMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "iMWritingQuatNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/iMWritingQuatNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "iMWritingQuatNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/iMWritingQuatNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
