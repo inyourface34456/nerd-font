@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "TerminessNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/TerminessNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "TerminessNerdFont";
+    font-size: 15px;
+}

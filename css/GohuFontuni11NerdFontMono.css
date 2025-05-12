@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "GohuFontuni11NerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/GohuFontuni11NerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "GohuFontuni11NerdFontMono";
+    font-size: 15px;
+}

@@ -1,13 +1,10 @@
 #!/bin/bash
 
-# Output CSS file
-output="fonts.css"
 
 # Base URL for font files
 base_url="https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts"
 
 # Start with a clean file
-> "$output"
 
 # Check for any matching files
 shopt -s nullglob  # prevents literal pattern if no match
@@ -20,10 +17,14 @@ fi
 
 # Loop through all .woff2 files
 for file in "${woff_files[@]}"; do
+  # Output CSS file
+  output="../css/${file%.woff2}.css"
+  
   # Strip the extension to get the font-family name
   font_name="${file%.woff2}"
 
   # Write the @font-face rule
+  > "$output"
   cat >> "$output" <<EOF
 @font-face {
     font-family: "${font_name}";
@@ -31,6 +32,11 @@ for file in "${woff_files[@]}"; do
     font-weight: normal;
     font-style: normal;
     font-display: swap;
+}
+
+body {
+    font-family: "${font_name}";
+    font-size: 15px;
 }
 EOF
 done

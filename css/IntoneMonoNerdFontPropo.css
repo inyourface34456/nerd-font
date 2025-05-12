@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "IntoneMonoNerdFontPropo";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/IntoneMonoNerdFontPropo.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "IntoneMonoNerdFontPropo";
+    font-size: 15px;
+}

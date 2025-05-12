@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "FiraMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/FiraMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "FiraMonoNerdFontMono";
+    font-size: 15px;
+}

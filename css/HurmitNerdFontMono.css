@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "HurmitNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/HurmitNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "HurmitNerdFontMono";
+    font-size: 15px;
+}

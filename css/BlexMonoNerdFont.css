@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "BlexMonoNerdFont";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/BlexMonoNerdFont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "BlexMonoNerdFont";
+    font-size: 15px;
+}

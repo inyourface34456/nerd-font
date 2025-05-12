@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "RobotoMonoNerdFontMono";
+    src: url("https://raw.githubusercontent.com/inyourface34456/nerd-font/main/fonts/RobotoMonoNerdFontMono.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: "RobotoMonoNerdFontMono";
+    font-size: 15px;
+}
