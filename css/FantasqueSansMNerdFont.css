@@ -10,3 +10,7 @@ body {
     font-family: "FantasqueSansMNerdFont";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

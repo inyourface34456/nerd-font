@@ -10,3 +10,7 @@ body {
     font-family: "ZedMonoNerdFontMono";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

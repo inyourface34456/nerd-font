@@ -38,6 +38,10 @@ body {
     font-family: "${font_name}";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}
 EOF
 done
 

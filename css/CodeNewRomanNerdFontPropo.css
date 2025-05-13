@@ -10,3 +10,7 @@ body {
     font-family: "CodeNewRomanNerdFontPropo";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

@@ -10,3 +10,7 @@ body {
     font-family: "MonoidNerdFont-Retina";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

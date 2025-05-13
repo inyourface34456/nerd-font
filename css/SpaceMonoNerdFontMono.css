@@ -10,3 +10,7 @@ body {
     font-family: "SpaceMonoNerdFontMono";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

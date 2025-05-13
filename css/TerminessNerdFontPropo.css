@@ -10,3 +10,7 @@ body {
     font-family: "TerminessNerdFontPropo";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

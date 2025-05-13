@@ -10,3 +10,7 @@ body {
     font-family: "IosevkaNerdFontMono";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

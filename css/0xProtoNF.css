@@ -10,3 +10,7 @@ body {
     font-family: "0xProtoNF";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

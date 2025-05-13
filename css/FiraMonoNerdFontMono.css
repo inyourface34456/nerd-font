@@ -10,3 +10,7 @@ body {
     font-family: "FiraMonoNerdFontMono";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

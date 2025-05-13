@@ -10,3 +10,7 @@ body {
     font-family: "DepartureMonoNerdFontPropo";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

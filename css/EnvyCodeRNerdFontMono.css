@@ -10,3 +10,7 @@ body {
     font-family: "EnvyCodeRNerdFontMono";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

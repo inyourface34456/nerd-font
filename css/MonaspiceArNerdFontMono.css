@@ -10,3 +10,7 @@ body {
     font-family: "MonaspiceArNerdFontMono";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

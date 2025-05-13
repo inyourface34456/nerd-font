@@ -10,3 +10,7 @@ body {
     font-family: "MesloLGMNerdFontMono";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

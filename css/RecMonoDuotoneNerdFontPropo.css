@@ -10,3 +10,7 @@ body {
     font-family: "RecMonoDuotoneNerdFontPropo";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

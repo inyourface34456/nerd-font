@@ -10,3 +10,7 @@ body {
     font-family: "InconsolataLGCNerdFontPropo";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

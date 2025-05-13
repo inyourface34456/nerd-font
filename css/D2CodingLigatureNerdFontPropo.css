@@ -10,3 +10,7 @@ body {
     font-family: "D2CodingLigatureNerdFontPropo";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

@@ -10,3 +10,7 @@ body {
     font-family: "M+2NerdFont";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}

@@ -10,3 +10,7 @@ body {
     font-family: "CaskaydiaMonoNerdFont";
     font-size: 15px;
 }
+
+button {
+    font-family: inherit;
+}
